@@ -1,2 +1,2 @@
 #Contact
-[a](/)
+[a](/index.md)
