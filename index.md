@@ -1,12 +1,10 @@
 
-# Mohammad al-Azhar
+# Mohammad Al-Azhar
 
 
 ### [Blog](/blog/index.md)
 
+### [Portfolio](https://4xrhd.rf.gd)
 
-### [twitter](https://twitter.com/4xrhd)
-
-
-## [Contact][contact]
+###  [Contact][contact]
   [contact]: contact.md
