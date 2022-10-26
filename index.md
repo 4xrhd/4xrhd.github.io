@@ -4,4 +4,9 @@
 
 ### [Blog](/blog/index.md)
 
+
 ### [twitter](https://twitter.com/4xrhd)
+
+
+## [Contact][contact]
+  [contact]: contact.md
